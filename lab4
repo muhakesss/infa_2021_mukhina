@@ -120,4 +120,3 @@ while not finished:
     screen.fill((0, 0, 0))  
 
 pygame.quit()
-
